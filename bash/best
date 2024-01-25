@@ -1,2 +1,2 @@
- #!/bin/bash 
-echo "Tekouin"
+#!/bin/bash
+echo "Hi Tekouin"
